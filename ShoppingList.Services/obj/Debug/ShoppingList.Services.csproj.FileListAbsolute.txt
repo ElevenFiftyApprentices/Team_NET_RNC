@@ -3,3 +3,8 @@ C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Services\bin\Debug\Shopping
 C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Services\obj\Debug\ShoppingList.Services.csprojResolveAssemblyReference.cache
 C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Services\obj\Debug\ShoppingList.Services.dll
 C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Services\obj\Debug\ShoppingList.Services.pdb
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\Team_NET_RNC\ShoppingList.Services\bin\Debug\ShoppingList.Services.dll
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\Team_NET_RNC\ShoppingList.Services\bin\Debug\ShoppingList.Services.pdb
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\Team_NET_RNC\ShoppingList.Services\obj\Debug\ShoppingList.Services.csprojResolveAssemblyReference.cache
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\Team_NET_RNC\ShoppingList.Services\obj\Debug\ShoppingList.Services.dll
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\Team_NET_RNC\ShoppingList.Services\obj\Debug\ShoppingList.Services.pdb
