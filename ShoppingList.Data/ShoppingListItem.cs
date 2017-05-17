@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 
 namespace ShoppingList.Data
 {
@@ -20,7 +21,8 @@ namespace ShoppingList.Data
 
     class ShoppingListItem
     {
-        public int ID { get; set; }
+        [Key]
+        public int ShoppingListItemID { get; set; }
         public int ShoppingListID { get; set; }
         public string contents { get; set; }
         public bool IsChecked { get; set; }
