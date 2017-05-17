@@ -1,0 +1,5 @@
+C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Models\bin\Debug\ShoppingList.Models.dll
+C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Models\bin\Debug\ShoppingList.Models.pdb
+C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Models\obj\Debug\ShoppingList.Models.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Models\obj\Debug\ShoppingList.Models.dll
+C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Models\obj\Debug\ShoppingList.Models.pdb
