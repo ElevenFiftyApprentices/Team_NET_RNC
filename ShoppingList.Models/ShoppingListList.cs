@@ -14,6 +14,5 @@ namespace ShoppingList.Models
 
         public string Color { get; set; }
 
-        public DateTimeOffset CreatedUtc { get; set; }
     }
 }
