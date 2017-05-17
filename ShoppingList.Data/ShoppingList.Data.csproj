@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAL\ListContext.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="ShoppingList.cs" />
