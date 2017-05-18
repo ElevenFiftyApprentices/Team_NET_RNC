@@ -5,10 +5,10 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using ShoppingList.Models;
-using ShoppingList.Data;
+using ShoppingListApp.Models;
+using ShoppingListApp.Data;
 
-namespace ShoppingList
+namespace ShoppingListApp
 {
     public partial class Startup
     {

@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
-namespace ShoppingList.Data
+namespace ShoppingListApp.Data
 {
 
     public enum Priority
