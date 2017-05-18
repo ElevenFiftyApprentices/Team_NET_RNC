@@ -32,6 +32,12 @@ namespace ShoppingList.Data
             return new ApplicationDbContext();
         }
 
+        public DbSet<ShoppingList> ShoppingList { get; set; }
+
+        public DbSet<Note> Note { get; set; }
+
+        public DbSet<ShoppingListItem> ShoppingListItem { get; set; }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
