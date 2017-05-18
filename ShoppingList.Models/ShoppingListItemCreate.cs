@@ -4,11 +4,9 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.ComponentModel.DataAnnotations;
 
-namespace ShoppingList.Data
+namespace ShoppingList.Models
 {
-
     enum Priority
     {
         [Description("grab it now!")]
@@ -19,15 +17,17 @@ namespace ShoppingList.Data
         Low
     }
 
-    class ShoppingListItem
+    class ShoppingListItemCreate
     {
-        [Key]
         public int ShoppingListItemID { get; set; }
+
         public int ShoppingListID { get; set; }
-        public string Contents { get; set; }
+
+        public string contents { get; set; }
+
         public bool IsChecked { get; set; }
-        public Priority Priority { get; set;  }
-        public DateTimeOffset CreatedUtc { get; set; }
-        public DateTimeOffset ModifiedUtc { get; set; }
+
+        public Priority Priority { get; set; }
+        public DateTimeOffset Created_Utc { get; set; }
     }
 }
