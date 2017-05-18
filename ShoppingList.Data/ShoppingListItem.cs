@@ -9,7 +9,7 @@ using System.ComponentModel.DataAnnotations;
 namespace ShoppingList.Data
 {
 
-    enum Priority
+    public enum Priority
     {
         [Description("grab it now!")]
         High,
@@ -19,7 +19,7 @@ namespace ShoppingList.Data
         Low
     }
 
-    class ShoppingListItem
+    public class ShoppingListItem
     {
         [Key]
         public int ShoppingListItemID { get; set; }
