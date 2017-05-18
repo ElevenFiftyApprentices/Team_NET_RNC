@@ -17,3 +17,17 @@ C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Services\bin\Debug\Shopping
 C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\micha\Desktop\Dev\ShoppingList\ShoppingList.Services\bin\Debug\EntityFramework.xml
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\ShoppingList.Services.dll
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\ShoppingList.Services.pdb
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\ShoppingList.Data.dll
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\EntityFramework.dll
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\ShoppingList.Data.pdb
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\ShoppingList.Data.dll.config
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\bin\Debug\EntityFramework.xml
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\obj\Debug\ShoppingList.Services.csprojResolveAssemblyReference.cache
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\obj\Debug\ShoppingList.Services.dll
+D:\VSProjects\Team_NET_RNC\ShoppingList.Services\obj\Debug\ShoppingList.Services.pdb
