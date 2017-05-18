@@ -24,10 +24,10 @@ namespace ShoppingList.Data
         [Key]
         public int ShoppingListItemID { get; set; }
         public int ShoppingListID { get; set; }
-        public string contents { get; set; }
+        public string Contents { get; set; }
         public bool IsChecked { get; set; }
         public Priority Priority { get; set;  }
-        public DateTimeOffset Created_Utc { get; set; }
-        public DateTimeOffset Modified_Utc { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset ModifiedUtc { get; set; }
     }
 }

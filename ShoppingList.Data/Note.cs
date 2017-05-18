@@ -12,8 +12,8 @@ namespace ShoppingList.Data
         [Key]
         public int NoteID { get; set; }
         public int ShoppingListItemID { get; set; }
-        public string body { get; set; }
-        public DateTimeOffset Created_Utc { get; set; }
-        public DateTimeOffset? Modified_Utc { get; set; }
+        public string Body { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }

@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,7 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NoteCreate.cs" />
+    <Compile Include="NoteDetail.cs" />
+    <Compile Include="NoteEdit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShoppingList.cs" />
+    <Compile Include="ShoppingListCreate.cs" />
+    <Compile Include="ShoppingListDetail.cs" />
+    <Compile Include="ShoppingListEdit.cs" />
+    <Compile Include="ShoppingListItemCreate.cs" />
+    <Compile Include="ShoppingListItemDetail.cs" />
+    <Compile Include="ShoppingListItemEdit.cs" />
+    <Compile Include="ShoppingListList.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -10,7 +10,7 @@ namespace ShoppingList.Data.DAL
 {
     class ListContext : DbContext
     {
-        public ListContext() : base("DefaultConnection")
+        public ListContext() : base()
         {
 
         }
