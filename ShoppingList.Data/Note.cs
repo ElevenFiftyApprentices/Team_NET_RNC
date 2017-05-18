@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.Entity;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +8,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ShoppingList.Data
 {
-    class Note
+    public class Note
     {
         [Key]
         public int NoteID { get; set; }

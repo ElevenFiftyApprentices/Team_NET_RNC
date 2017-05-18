@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ShoppingList.Models
 {
-    class ShoppingListCreate
+    public class ShoppingListCreate
     {
         public int Id { get; set; }
 
