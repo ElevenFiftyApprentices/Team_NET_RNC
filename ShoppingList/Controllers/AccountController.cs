@@ -8,10 +8,10 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using ShoppingList.Models;
-using ShoppingList.Data;
+using ShoppingListApp.Models;
+using ShoppingListApp.Data;
 
-namespace ShoppingList.Controllers
+namespace ShoppingListApp.Controllers
 {
     [Authorize]
     public class AccountController : Controller

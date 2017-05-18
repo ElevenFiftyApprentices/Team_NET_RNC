@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList.Web", "ShoppingList\ShoppingList.Web.csproj", "{1B3E8EA9-EE32-410E-9E68-24C698B55CD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListApp.Web", "ShoppingList\ShoppingListApp.Web.csproj", "{1B3E8EA9-EE32-410E-9E68-24C698B55CD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList.Services", "ShoppingList.Services\ShoppingList.Services.csproj", "{5DBF3A2F-469D-43D6-84D4-37657408510B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListApp.Services", "ShoppingList.Services\ShoppingListApp.Services.csproj", "{5DBF3A2F-469D-43D6-84D4-37657408510B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList.Data", "ShoppingList.Data\ShoppingList.Data.csproj", "{806FEB3A-AD8E-417A-ABE5-F89F16606627}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListApp.Data", "ShoppingList.Data\ShoppingListApp.Data.csproj", "{806FEB3A-AD8E-417A-ABE5-F89F16606627}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList.Models", "ShoppingList.Models\ShoppingList.Models.csproj", "{09C05BBD-CAC2-4A5E-8F73-F101880A00F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListApp.Models", "ShoppingList.Models\ShoppingListApp.Models.csproj", "{09C05BBD-CAC2-4A5E-8F73-F101880A00F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,8 +7,8 @@
     <ProjectGuid>{806FEB3A-AD8E-417A-ABE5-F89F16606627}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ShoppingList.Data</RootNamespace>
-    <AssemblyName>ShoppingList.Data</AssemblyName>
+    <RootNamespace>ShoppingListApp.Data</RootNamespace>
+    <AssemblyName>ShoppingListApp.Data</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -51,6 +51,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -61,8 +62,8 @@
   <ItemGroup>
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Note.cs" />
-    <Compile Include="ShoppingList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShoppingList.cs" />
     <Compile Include="ShoppingListItem.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShoppingList.Models
+namespace ShoppingListApp.Models
 {
     public class ShoppingListItemEdit
     {
