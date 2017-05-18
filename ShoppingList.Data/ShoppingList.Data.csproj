@@ -59,7 +59,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAL\ListContext.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="ShoppingList.cs" />
@@ -73,5 +72,6 @@
   <ItemGroup>
     <Content Include="Content\PagedList.css" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

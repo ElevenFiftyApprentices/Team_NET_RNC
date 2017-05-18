@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.Entity;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +8,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ShoppingList.Data
 {
-    class ShoppingList 
+    public class ShoppingList 
     {
         [Key]
         public int ShoppingListID { get; set;}
@@ -16,5 +17,6 @@ namespace ShoppingList.Data
         public string Color { get; set; }
         public DateTimeOffset CreatedUtc { get; set; }
         public DateTimeOffset ModifiedUtc { get; set; }
+
     }
 }

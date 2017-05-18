@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ShoppingList.Models
 {
-    enum Priority
+    public enum Priority
     {
         [Description("grab it now!")]
         High,
@@ -17,7 +17,7 @@ namespace ShoppingList.Models
         Low
     }
 
-    class ShoppingListItemCreate
+    public class ShoppingListItemCreate
     {
         public int ShoppingListItemID { get; set; }
 
